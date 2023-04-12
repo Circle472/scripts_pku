@@ -9,9 +9,9 @@ pip install –r requirements.txt
 ```python
 TOTAL_PAGES = 172
 # personal information below
-ID = "STUDENT_ID"  # enter your ID here
-NAME = "NAME_HERE"  # enter your name here
-NUMBER = 0  # enter your number here
+ID = "_*STUDENT_ID*_"  # enter your ID here
+NAME = "_*NAME_HERE*_"  # enter your name here
+NUMBER = _*0*_  # enter your number here
 ```
 
 ### 執行程式碼
