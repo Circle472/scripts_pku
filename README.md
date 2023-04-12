@@ -1,4 +1,6 @@
 # scripts_pku
+
+### 修改 info.py 程式碼
 ```python
     TOTAL_PAGES = 172
     # personal information below
