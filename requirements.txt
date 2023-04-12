@@ -1,0 +1,6 @@
+numpy
+matplotlib
+svglib
+reportlab
+pikepdf
+tqdm
