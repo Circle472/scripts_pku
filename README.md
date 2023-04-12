@@ -1,5 +1,8 @@
 # scripts_pku
 
+### 檔案功能介紹
+![GITHUB](https://raw.githubusercontent.com/Circle472/scripts_pku/main/scripts_pku_file.jpg)
+
 ### 安裝 requirements.txt 套件
 ```
 pip install –r requirements.txt
