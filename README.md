@@ -25,5 +25,5 @@ python 2_SVG2PDF.py
 ```
 #### 步驟三：將 138 張 pdf 檔案合併成一個 pdf 檔案
 ```python
-python 33_PDFmerge.py
+python 3_PDFmerge.py
 ```
