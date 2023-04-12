@@ -8,3 +8,8 @@
     NAME = "NAME_HERE"  # enter your name here
     NUMBER = 0  # enter your number here
 ```
+
+### 安裝 requirements.txt 的套件
+```python
+    pip install –r requirements.txt
+```
