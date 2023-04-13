@@ -1,6 +1,6 @@
 # scripts_pku
 
-### 製作包含 CP950 所有字符稿紙
+### 製作包含 CP950 所有字元稿紙
 參考：[EasyFont](https://www.wict.pku.edu.cn/zlian/easyfont/index.htm "EasyFont: A Style Learning based System to Easily Build Your Large-scale Handwriting Fonts")
 
 ### 檔案功能介紹
